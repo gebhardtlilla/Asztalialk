@@ -1,0 +1,2 @@
+H:\12\Asztali alk\2024_09_19_Gyakorlas\2024_09_19_Gyakorlas\obj\Debug\2024_09_19_Gyakorlas.csproj.AssemblyReference.cache
+H:\12\Asztali alk\2024_09_19_Gyakorlas\2024_09_19_Gyakorlas\obj\Debug\2024_09_19_Gyakorlas.csproj.CoreCompileInputs.cache

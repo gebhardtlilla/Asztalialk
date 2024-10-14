@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\12\\Asztali alk\\2024_09_19_Gyakorlas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8243141-C03E-498D-B6A8-619415DF9404}|2024_09_19_Gyakorlas\\2024_09_19_Gyakorlas.csproj|h:\\12\\asztali alk\\2024_09_19_gyakorlas\\2024_09_19_gyakorlas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8243141-C03E-498D-B6A8-619415DF9404}|2024_09_19_Gyakorlas\\2024_09_19_Gyakorlas.csproj|solutionrelative:2024_09_19_gyakorlas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\2024_09_19_Gyakorlas\\2024_09_19_Gyakorlas\\Program.cs",
+              "RelativeDocumentMoniker": "2024_09_19_Gyakorlas\\Program.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\2024_09_19_Gyakorlas\\2024_09_19_Gyakorlas\\Program.cs",
+              "RelativeToolTip": "2024_09_19_Gyakorlas\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwJIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:14:55.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
