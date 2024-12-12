@@ -6,17 +6,11 @@ using System.Threading.Tasks;
 
 namespace _2024_11_25_Interface
 {
-    internal class Osztaly:IFenykepezo, IDigtafon
+    internal class Osztaly:ISzerkezet
     {
-        public void FenykepetKeszit(int p)
+        public void Metodus(int p)
         {
-            Console.WriteLine("Fényképet készítettem.");
+            Console.WriteLine("Metódus kifejtése");
         }
-
-        public void Hangrogzites(string sz)
-        {
-            Console.WriteLine("Ezt a szöveget rögzítettem: " +sz); 
-        }
-
     }
 }

@@ -10,6 +10,12 @@ namespace _2024_12_12_Szuperhos
     {
         static void Main(string[] args)
         {
+            
+
+
+
+
+
 
         }
     }

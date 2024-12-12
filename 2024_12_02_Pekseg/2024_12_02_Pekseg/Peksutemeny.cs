@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace _2024_12_02_Pekseg
 {
-    internal abstract class Peksutemeny : IArlap
+    internal abstract class Peksutemeny :IArlap
     {
-        protected double mennyiyseg;
+        protected double mennyiseg;
         private double ar;
-
 
         public Peksutemeny(double mennyiseg, double ar)
         {
-            this.mennyiyseg = mennyiseg;
+            this.mennyiseg = mennyiseg;
             this.ar = ar;
         }
 
@@ -22,13 +21,12 @@ namespace _2024_12_02_Pekseg
 
         public double MennyibeKerul()
         {
-            return ar * mennyiyseg;
+            return ar * mennyiseg;
         }
 
         public override string ToString()
         {
-            return .ToString();
+            return $"{mennyiseg} db - {MennyibeKerul()} Ft";
         }
-
     }
 }

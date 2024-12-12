@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{911C7FEC-B051-4546-A23F-9EB0DC5CB977}</ProjectGuid>
+    <ProjectGuid>{3A0EFA88-A2FB-4BEA-A7A9-28E70EDD6E83}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_2024_11_18_OroklodesPelda</RootNamespace>
     <AssemblyName>2024_11_18_OroklodesPelda</AssemblyName>

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D5E6BC14-87E3-47C8-966B-C7E9B3624120}</ProjectGuid>
+    <ProjectGuid>{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_2024_12_02_Pekseg</RootNamespace>
     <AssemblyName>2024_12_02_Pekseg</AssemblyName>
@@ -44,7 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IArlap.cs" />
+    <Compile Include="Kave.cs" />
+    <Compile Include="Pekseg.cs" />
     <Compile Include="Peksutemeny.cs" />
+    <Compile Include="Pogacsa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{AA6C0139-BDE6-4CA2-8B85-9ABBFF7CDD07}|2024_11_25_Interface\\2024_11_25_Interface.csproj|solutionrelative:2024_11_25_interface\\osztaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA6C0139-BDE6-4CA2-8B85-9ABBFF7CDD07}|2024_11_25_Interface\\2024_11_25_Interface.csproj|H:\\2024-2025\\12.cb AAF 2csop\\2024_11_25_Interface\\2024_11_25_interface\\iszerkezet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA6C0139-BDE6-4CA2-8B85-9ABBFF7CDD07}|2024_11_25_Interface\\2024_11_25_Interface.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_11_25_interface\\2024_11_25_interface\\iszerkezet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA6C0139-BDE6-4CA2-8B85-9ABBFF7CDD07}|2024_11_25_Interface\\2024_11_25_Interface.csproj|solutionrelative:2024_11_25_interface\\iszerkezet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA6C0139-BDE6-4CA2-8B85-9ABBFF7CDD07}|2024_11_25_Interface\\2024_11_25_Interface.csproj|H:\\2024-2025\\12.cb AAF 2csop\\2024_11_25_Interface\\2024_11_25_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA6C0139-BDE6-4CA2-8B85-9ABBFF7CDD07}|2024_11_25_Interface\\2024_11_25_Interface.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_11_25_interface\\2024_11_25_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA6C0139-BDE6-4CA2-8B85-9ABBFF7CDD07}|2024_11_25_Interface\\2024_11_25_Interface.csproj|solutionrelative:2024_11_25_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "2024_11_25_Interface\\Osztaly.cs",
               "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_25_Interface\\2024_11_25_Interface\\Osztaly.cs",
               "RelativeToolTip": "2024_11_25_Interface\\Osztaly.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T12:24:15.227Z",
               "EditorCaption": ""
@@ -47,7 +47,8 @@
               "RelativeToolTip": "2024_11_25_Interface\\ISzerkezet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:21:06.656Z"
+              "WhenOpened": "2024-11-25T12:21:06.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "2024_11_25_Interface\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:17:07.523Z"
+              "WhenOpened": "2024-11-25T12:17:07.523Z",
+              "EditorCaption": ""
             }
           ]
         }

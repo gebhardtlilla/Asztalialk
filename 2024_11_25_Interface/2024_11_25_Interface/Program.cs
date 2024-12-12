@@ -10,16 +10,6 @@ namespace _2024_11_25_Interface
     {
         static void Main(string[] args)
         {
-            //polimorfizmus - többalakúség. Egy ostályt több, különböző példányokat tud tárolni. (Ha közös az ős)
-            IFenykepezo f1 = new Osztaly();
-            IFenykepezo f2 = new Mobil();
-
-            if(f1.GetType() == typeof(Osztaly))
-            {
-                f1.FenykepetKeszit(3);
-            }
-
-            Console.ReadLine();
 
         }
     }

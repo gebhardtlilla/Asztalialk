@@ -9,7 +9,5 @@ namespace _2024_12_02_Pekseg
     internal interface IArlap
     {
         double MennyibeKerul();
-
-         
     }
 }

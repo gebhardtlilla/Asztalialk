@@ -43,12 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IDigtafon.cs" />
-    <Compile Include="Mobil.cs" />
     <Compile Include="Osztaly.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="IFenykepezo.cs" />
+    <Compile Include="ISzerkezet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
