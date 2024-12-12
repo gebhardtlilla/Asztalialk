@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A90EA54C-CD43-498A-AF10-B7E79EA329B8}|2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu.csproj|H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90EA54C-CD43-498A-AF10-B7E79EA329B8}|2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu.csproj|solutionrelative:2024_12_06_gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90EA54C-CD43-498A-AF10-B7E79EA329B8}|2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu.csproj|H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90EA54C-CD43-498A-AF10-B7E79EA329B8}|2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu.csproj|solutionrelative:2024_12_06_gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90EA54C-CD43-498A-AF10-B7E79EA329B8}|2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu.csproj|H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_gepjarmu\\ikisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90EA54C-CD43-498A-AF10-B7E79EA329B8}|2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu.csproj|solutionrelative:2024_12_06_gepjarmu\\ikisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90EA54C-CD43-498A-AF10-B7E79EA329B8}|2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu.csproj|h:\\12\\asztali alk\\\u00F6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_gepjarmu\\2024_12_06_gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90EA54C-CD43-498A-AF10-B7E79EA329B8}|2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu.csproj|solutionrelative:2024_12_06_gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90EA54C-CD43-498A-AF10-B7E79EA329B8}|2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu.csproj|H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90EA54C-CD43-498A-AF10-B7E79EA329B8}|2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu.csproj|solutionrelative:2024_12_06_gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudiS8.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu\\AudiS8.cs",
+              "RelativeDocumentMoniker": "2024_12_06_Gepjarmu\\AudiS8.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu\\AudiS8.cs",
+              "RelativeToolTip": "2024_12_06_Gepjarmu\\AudiS8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:34:12.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Robogo.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu\\Robogo.cs",
+              "RelativeDocumentMoniker": "2024_12_06_Gepjarmu\\Robogo.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu\\Robogo.cs",
+              "RelativeToolTip": "2024_12_06_Gepjarmu\\Robogo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:16:07.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jarmu.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu\\Jarmu.cs",
+              "RelativeDocumentMoniker": "2024_12_06_Gepjarmu\\Jarmu.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu\\Jarmu.cs",
+              "RelativeToolTip": "2024_12_06_Gepjarmu\\Jarmu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:08:00.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IKisGepjarmu.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu\\IKisGepjarmu.cs",
+              "RelativeDocumentMoniker": "2024_12_06_Gepjarmu\\IKisGepjarmu.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu\\IKisGepjarmu.cs",
+              "RelativeToolTip": "2024_12_06_Gepjarmu\\IKisGepjarmu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:04:44.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu\\Program.cs",
+              "RelativeDocumentMoniker": "2024_12_06_Gepjarmu\\Program.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\\u00D6r\u00F6kl\u0151d\u00E9s feladatok\\2024_12_06_Gepjarmu\\2024_12_06_Gepjarmu\\Program.cs",
+              "RelativeToolTip": "2024_12_06_Gepjarmu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:02:49.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

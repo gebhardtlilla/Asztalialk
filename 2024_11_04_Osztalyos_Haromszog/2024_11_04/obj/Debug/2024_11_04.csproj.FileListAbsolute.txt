@@ -1,0 +1,7 @@
+H:\12\Asztali alk\2024_11_04_Osztalyos_Haromszog\2024_11_04\bin\Debug\2024_11_04.exe.config
+H:\12\Asztali alk\2024_11_04_Osztalyos_Haromszog\2024_11_04\bin\Debug\2024_11_04.exe
+H:\12\Asztali alk\2024_11_04_Osztalyos_Haromszog\2024_11_04\bin\Debug\2024_11_04.pdb
+H:\12\Asztali alk\2024_11_04_Osztalyos_Haromszog\2024_11_04\obj\Debug\2024_11_04.csproj.AssemblyReference.cache
+H:\12\Asztali alk\2024_11_04_Osztalyos_Haromszog\2024_11_04\obj\Debug\2024_11_04.csproj.CoreCompileInputs.cache
+H:\12\Asztali alk\2024_11_04_Osztalyos_Haromszog\2024_11_04\obj\Debug\2024_11_04.exe
+H:\12\Asztali alk\2024_11_04_Osztalyos_Haromszog\2024_11_04\obj\Debug\2024_11_04.pdb

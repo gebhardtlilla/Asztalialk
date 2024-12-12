@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\12\\Asztali alk\\2024_12_02_Pekseg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6BC14-87E3-47C8-966B-C7E9B3624120}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|h:\\12\\asztali alk\\2024_12_02_pekseg\\2024_12_02_pekseg\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6BC14-87E3-47C8-966B-C7E9B3624120}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|solutionrelative:2024_12_02_pekseg\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6BC14-87E3-47C8-966B-C7E9B3624120}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|h:\\12\\asztali alk\\2024_12_02_pekseg\\2024_12_02_pekseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6BC14-87E3-47C8-966B-C7E9B3624120}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|solutionrelative:2024_12_02_pekseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6BC14-87E3-47C8-966B-C7E9B3624120}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|h:\\12\\asztali alk\\2024_12_02_pekseg\\2024_12_02_pekseg\\iarlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6BC14-87E3-47C8-966B-C7E9B3624120}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|solutionrelative:2024_12_02_pekseg\\iarlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Peksutemeny.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Peksutemeny.cs",
+              "RelativeDocumentMoniker": "2024_12_02_Pekseg\\Peksutemeny.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Peksutemeny.cs",
+              "RelativeToolTip": "2024_12_02_Pekseg\\Peksutemeny.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:52:47.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IArlap.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\IArlap.cs",
+              "RelativeDocumentMoniker": "2024_12_02_Pekseg\\IArlap.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\IArlap.cs",
+              "RelativeToolTip": "2024_12_02_Pekseg\\IArlap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:52:24.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Program.cs",
+              "RelativeDocumentMoniker": "2024_12_02_Pekseg\\Program.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Program.cs",
+              "RelativeToolTip": "2024_12_02_Pekseg\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:51:46.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
