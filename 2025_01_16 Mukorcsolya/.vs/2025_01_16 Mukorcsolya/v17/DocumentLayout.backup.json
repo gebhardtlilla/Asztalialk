@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\2024-2025\\12.cb AAF 2csop\\2025_01_16 Mukorcsolya\\",
+  "WorkspaceRootPath": "H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{743F8B78-C163-422B-A74A-88D6070B3A1A}|2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2025_01_16 mukorcsolya\\2025_01_16 mukorcsolya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{743F8B78-C163-422B-A74A-88D6070B3A1A}|2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya.csproj|h:\\12\\asztali alk\\2025_01_16 mukorcsolya\\2025_01_16 mukorcsolya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{743F8B78-C163-422B-A74A-88D6070B3A1A}|2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya.csproj|solutionrelative:2025_01_16 mukorcsolya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743F8B78-C163-422B-A74A-88D6070B3A1A}|2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya.csproj|H:\\2024-2025\\12.cb AAF 2csop\\2025_01_16 Mukorcsolya\\2025_01_16 mukorcsolya\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{743F8B78-C163-422B-A74A-88D6070B3A1A}|2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya.csproj|H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 mukorcsolya\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{743F8B78-C163-422B-A74A-88D6070B3A1A}|2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya.csproj|solutionrelative:2025_01_16 mukorcsolya\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,21 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Versenyzo.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Versenyzo.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Versenyzo.cs",
               "RelativeDocumentMoniker": "2025_01_16 Mukorcsolya\\Versenyzo.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Versenyzo.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Versenyzo.cs",
               "RelativeToolTip": "2025_01_16 Mukorcsolya\\Versenyzo.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T12:46:38.415Z",
               "EditorCaption": ""
@@ -41,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Program.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Program.cs",
               "RelativeDocumentMoniker": "2025_01_16 Mukorcsolya\\Program.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Program.cs",
-              "RelativeToolTip": "2025_01_16 Mukorcsolya\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAWwCAAAABTAAAA",
+              "ToolTip": "H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Program.cs*",
+              "RelativeToolTip": "2025_01_16 Mukorcsolya\\Program.cs*",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAIwJ8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T12:44:54.179Z",
               "EditorCaption": ""
