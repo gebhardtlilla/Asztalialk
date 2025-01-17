@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\12\\Asztali alk\\4_Valasztasok\\2024_09_25_Fajlbeolvasas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BECC394C-B873-4420-9346-7C7671FE20E4}|2024_09_25_Fajlbeolvasas\\2024_09_25_Fajlbeolvasas.csproj|h:\\12\\asztali alk\\4_valasztasok\\2024_09_25_fajlbeolvasas\\2024_09_25_fajlbeolvasas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECC394C-B873-4420-9346-7C7671FE20E4}|2024_09_25_Fajlbeolvasas\\2024_09_25_Fajlbeolvasas.csproj|solutionrelative:2024_09_25_fajlbeolvasas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "5df7d544-c86c-4d6e-a6fe-cdba816674c7",
+        "Display": 0,
+        "X": 27,
+        "Y": 45,
+        "Width": 1553,
+        "Height": 990,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\4_Valasztasok\\2024_09_25_Fajlbeolvasas\\2024_09_25_Fajlbeolvasas\\Program.cs",
+              "RelativeDocumentMoniker": "2024_09_25_Fajlbeolvasas\\Program.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\4_Valasztasok\\2024_09_25_Fajlbeolvasas\\2024_09_25_Fajlbeolvasas\\Program.cs",
+              "RelativeToolTip": "2024_09_25_Fajlbeolvasas\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:54:32.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

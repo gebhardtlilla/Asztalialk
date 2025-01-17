@@ -9,8 +9,7 @@ namespace _2024_12_12_Gepjarmu
 {
     internal class Orszagut
     {
-        public static List<Jarmu> jarmuvek = new List<Jarmu>();
-
+        public static List<Jarmu>jarmuvek=new List<Jarmu>();
         public static void JarmuvekJonnek(string path)
         {
             StreamReader sr = new StreamReader(path);

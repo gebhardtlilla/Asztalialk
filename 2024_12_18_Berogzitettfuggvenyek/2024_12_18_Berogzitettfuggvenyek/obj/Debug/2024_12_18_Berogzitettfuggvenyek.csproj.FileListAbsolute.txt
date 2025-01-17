@@ -1,0 +1,7 @@
+H:\12\Asztali alk\2024_12_18_Berogzitettfuggvenyek\2024_12_18_Berogzitettfuggvenyek\bin\Debug\2024_12_18_Berogzitettfuggvenyek.exe.config
+H:\12\Asztali alk\2024_12_18_Berogzitettfuggvenyek\2024_12_18_Berogzitettfuggvenyek\bin\Debug\2024_12_18_Berogzitettfuggvenyek.exe
+H:\12\Asztali alk\2024_12_18_Berogzitettfuggvenyek\2024_12_18_Berogzitettfuggvenyek\bin\Debug\2024_12_18_Berogzitettfuggvenyek.pdb
+H:\12\Asztali alk\2024_12_18_Berogzitettfuggvenyek\2024_12_18_Berogzitettfuggvenyek\obj\Debug\2024_12_18_Berogzitettfuggvenyek.csproj.AssemblyReference.cache
+H:\12\Asztali alk\2024_12_18_Berogzitettfuggvenyek\2024_12_18_Berogzitettfuggvenyek\obj\Debug\2024_12_18_Berogzitettfuggvenyek.csproj.CoreCompileInputs.cache
+H:\12\Asztali alk\2024_12_18_Berogzitettfuggvenyek\2024_12_18_Berogzitettfuggvenyek\obj\Debug\2024_12_18_Berogzitettfuggvenyek.exe
+H:\12\Asztali alk\2024_12_18_Berogzitettfuggvenyek\2024_12_18_Berogzitettfuggvenyek\obj\Debug\2024_12_18_Berogzitettfuggvenyek.pdb
