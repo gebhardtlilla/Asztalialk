@@ -1,0 +1,7 @@
+H:\12\Asztali alk\2025_01_17_Nobel\2025_01_17_Nobel\bin\Debug\2025_01_17_Nobel.exe.config
+H:\12\Asztali alk\2025_01_17_Nobel\2025_01_17_Nobel\bin\Debug\2025_01_17_Nobel.exe
+H:\12\Asztali alk\2025_01_17_Nobel\2025_01_17_Nobel\bin\Debug\2025_01_17_Nobel.pdb
+H:\12\Asztali alk\2025_01_17_Nobel\2025_01_17_Nobel\obj\Debug\2025_01_17_Nobel.csproj.AssemblyReference.cache
+H:\12\Asztali alk\2025_01_17_Nobel\2025_01_17_Nobel\obj\Debug\2025_01_17_Nobel.csproj.CoreCompileInputs.cache
+H:\12\Asztali alk\2025_01_17_Nobel\2025_01_17_Nobel\obj\Debug\2025_01_17_Nobel.exe
+H:\12\Asztali alk\2025_01_17_Nobel\2025_01_17_Nobel\obj\Debug\2025_01_17_Nobel.pdb

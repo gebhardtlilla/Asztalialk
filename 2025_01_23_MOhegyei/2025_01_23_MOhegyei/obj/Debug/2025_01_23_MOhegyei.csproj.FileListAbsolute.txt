@@ -1,0 +1,7 @@
+H:\12\Asztali alk\2025_01_23_MOhegyei\2025_01_23_MOhegyei\bin\Debug\2025_01_23_MOhegyei.exe.config
+H:\12\Asztali alk\2025_01_23_MOhegyei\2025_01_23_MOhegyei\bin\Debug\2025_01_23_MOhegyei.exe
+H:\12\Asztali alk\2025_01_23_MOhegyei\2025_01_23_MOhegyei\bin\Debug\2025_01_23_MOhegyei.pdb
+H:\12\Asztali alk\2025_01_23_MOhegyei\2025_01_23_MOhegyei\obj\Debug\2025_01_23_MOhegyei.csproj.AssemblyReference.cache
+H:\12\Asztali alk\2025_01_23_MOhegyei\2025_01_23_MOhegyei\obj\Debug\2025_01_23_MOhegyei.csproj.CoreCompileInputs.cache
+H:\12\Asztali alk\2025_01_23_MOhegyei\2025_01_23_MOhegyei\obj\Debug\2025_01_23_MOhegyei.exe
+H:\12\Asztali alk\2025_01_23_MOhegyei\2025_01_23_MOhegyei\obj\Debug\2025_01_23_MOhegyei.pdb

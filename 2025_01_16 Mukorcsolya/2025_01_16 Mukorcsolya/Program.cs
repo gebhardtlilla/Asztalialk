@@ -21,7 +21,7 @@ namespace _2025_01_16_Mukorcsolya
             Feladat5_6();
             Feladat7();
             Feladat9();
-            Kiiratas();
+           // Kiiratas();
            
 
             Console.ReadLine();
@@ -124,47 +124,47 @@ namespace _2025_01_16_Mukorcsolya
             return versenyzok;
         }
 
-        private static void Kiiratas()
-        {
-            var sorbarendezes = rovidprogram
-                .Select(x => new
-                {
-                    nev = x.nev,
-                    orszag = x.orszag,
-                    pontsz = OsszpontSzam(x.nev)
+        //private static void Kiiratas()
+        //{
+        //    var sorbarendezes = rovidprogram
+        //        .Select(x => new
+        //        {
+        //            nev = x.nev,
+        //            orszag = x.orszag,
+        //            pontsz = OsszpontSzam(x.nev)
                     
 
 
-                })
-                .OrderBy(x => x.pontsz);
+        //        })
+        //        .OrderBy(x => x.pontsz);
 
             
 
 
 
-            StreamWriter w = new StreamWriter("vegeredmeny.csv");
-            List<string> adatok = new List<string>();
+        //    StreamWriter w = new StreamWriter("vegeredmeny.csv");
+        //    List<string> adatok = new List<string>();
 
-            //foreach (var orszag in orszagLista)
-            //{
-            //    Console.WriteLine("{0}: {1} versenyzo", orszag.orszag, orszag.legjobb.nev);
-            //}
+        //    //foreach (var orszag in orszagLista)
+        //    //{
+        //    //    Console.WriteLine("{0}: {1} versenyzo", orszag.orszag, orszag.legjobb.nev);
+        //    //}
 
-            int i = 0;
-            foreach ( var adat in sorbarendezes)
-            {
-                adatok[i]= adat.nev +";" + adat.orszag+ ";" + adat.pontsz;
-                i++;
-            }
+        //    int i = 0;
+        //    foreach ( var adat in sorbarendezes)
+        //    {
+        //        adatok[i]= adat.nev +";" + adat.orszag+ ";" + adat.pontsz;
+        //        i++;
+        //    }
 
-            for (int j = 0; j < donto.Count; j++)
-            {
-                w.WriteLine(adatok[j]);
+        //    for (int j = 0; j < donto.Count; j++)
+        //    {
+        //        w.WriteLine(adatok[j]);
 
-            }
+        //    }
 
-            w.Close();
-        }
+        //    w.Close();
+        //}
 
     }
 
