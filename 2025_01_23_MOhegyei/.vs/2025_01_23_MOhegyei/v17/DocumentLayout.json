@@ -7,7 +7,10 @@
       "RelativeMoniker": "D:0:0:{C959E6EC-54F4-4636-8063-4DDF56FAE0E1}|2025_01_23_MOhegyei\\2025_01_23_MOhegyei.csproj|solutionrelative:2025_01_23_mohegyei\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C959E6EC-54F4-4636-8063-4DDF56FAE0E1}|2025_01_23_MOhegyei\\2025_01_23_MOhegyei.csproj|H:\\12\\Asztali alk\\2025_01_23_MOhegyei\\2025_01_23_mohegyei\\hegy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\12\\Asztali alk\\2025_01_17_Nobel\\2025_01_17_Nobel\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C959E6EC-54F4-4636-8063-4DDF56FAE0E1}|2025_01_23_MOhegyei\\2025_01_23_MOhegyei.csproj|h:\\12\\asztali alk\\2025_01_23_mohegyei\\2025_01_23_mohegyei\\hegy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C959E6EC-54F4-4636-8063-4DDF56FAE0E1}|2025_01_23_MOhegyei\\2025_01_23_MOhegyei.csproj|solutionrelative:2025_01_23_mohegyei\\hegy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +21,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\2025_01_17_Nobel\\2025_01_17_Nobel\\Program.cs",
+              "RelativeDocumentMoniker": "..\\2025_01_17_Nobel\\2025_01_17_Nobel\\Program.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\2025_01_17_Nobel\\2025_01_17_Nobel\\Program.cs",
+              "RelativeToolTip": "..\\2025_01_17_Nobel\\2025_01_17_Nobel\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:03:18.529Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\12\\Asztali alk\\2025_01_23_MOhegyei\\2025_01_23_MOhegyei\\Program.cs",
               "RelativeDocumentMoniker": "2025_01_23_MOhegyei\\Program.cs",
-              "ToolTip": "H:\\12\\Asztali alk\\2025_01_23_MOhegyei\\2025_01_23_MOhegyei\\Program.cs",
-              "RelativeToolTip": "2025_01_23_MOhegyei\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAACvAAAAAAAAAA==",
+              "ToolTip": "H:\\12\\Asztali alk\\2025_01_23_MOhegyei\\2025_01_23_MOhegyei\\Program.cs*",
+              "RelativeToolTip": "2025_01_23_MOhegyei\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T12:01:14.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Hegy.cs",
               "DocumentMoniker": "H:\\12\\Asztali alk\\2025_01_23_MOhegyei\\2025_01_23_MOhegyei\\Hegy.cs",
               "RelativeDocumentMoniker": "2025_01_23_MOhegyei\\Hegy.cs",
               "ToolTip": "H:\\12\\Asztali alk\\2025_01_23_MOhegyei\\2025_01_23_MOhegyei\\Hegy.cs",
               "RelativeToolTip": "2025_01_23_MOhegyei\\Hegy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T12:01:12.714Z",
               "EditorCaption": ""

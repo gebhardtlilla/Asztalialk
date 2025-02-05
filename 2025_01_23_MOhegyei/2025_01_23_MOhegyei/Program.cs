@@ -26,10 +26,6 @@ namespace _2025_01_23_MOhegyei
         {
 
             Console.Write("5.feladat");
-                
-
-
-
 
 
             var legmagasabb = adatok.OrderByDescending(obj => obj.Magassagok).First();

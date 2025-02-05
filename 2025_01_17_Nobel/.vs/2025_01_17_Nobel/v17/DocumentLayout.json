@@ -7,11 +7,14 @@
       "RelativeMoniker": "D:0:0:{8A270C6C-D86F-4DA7-AF96-3DCD7D157641}|2025_01_17_Nobel\\2025_01_17_Nobel.csproj|solutionrelative:2025_01_17_nobel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A270C6C-D86F-4DA7-AF96-3DCD7D157641}|2025_01_17_Nobel\\2025_01_17_Nobel.csproj|H:\\12\\Asztali alk\\2025_01_17_Nobel\\2025_01_17_nobel\\nobel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A270C6C-D86F-4DA7-AF96-3DCD7D157641}|2025_01_17_Nobel\\2025_01_17_Nobel.csproj|solutionrelative:2025_01_17_nobel\\nobel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,30 +24,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "..\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Versenyzo.cs",
+              "ToolTip": "H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Versenyzo.cs",
+              "RelativeToolTip": "..\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Versenyzo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:09:27.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Program.cs",
               "RelativeDocumentMoniker": "..\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Program.cs",
               "ToolTip": "H:\\12\\Asztali alk\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Program.cs",
               "RelativeToolTip": "..\\2025_01_16 Mukorcsolya\\2025_01_16 Mukorcsolya\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAADwvzwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T11:52:34.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Nobel.cs",
               "DocumentMoniker": "H:\\12\\Asztali alk\\2025_01_17_Nobel\\2025_01_17_Nobel\\Nobel.cs",
               "RelativeDocumentMoniker": "2025_01_17_Nobel\\Nobel.cs",
               "ToolTip": "H:\\12\\Asztali alk\\2025_01_17_Nobel\\2025_01_17_Nobel\\Nobel.cs",
               "RelativeToolTip": "2025_01_17_Nobel\\Nobel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T11:06:19.458Z",
               "EditorCaption": ""
@@ -57,7 +73,7 @@
               "RelativeDocumentMoniker": "2025_01_17_Nobel\\Program.cs",
               "ToolTip": "H:\\12\\Asztali alk\\2025_01_17_Nobel\\2025_01_17_Nobel\\Program.cs",
               "RelativeToolTip": "2025_01_17_Nobel\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAIAwwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T11:02:08.672Z",
               "EditorCaption": ""

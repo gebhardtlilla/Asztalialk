@@ -124,6 +124,21 @@ namespace _2025_01_16_Mukorcsolya
             return versenyzok;
         }
 
+
+        //private static void Fajlbeolvasas()
+        //{
+        //    StreamReader sr = new StreamReader("nobel.csv");
+        //    sr.ReadLine();
+        //    while (!sr.EndOfStream)
+        //    {
+        //        Nobel sv = new Nobel(sr.ReadLine());
+        //        adatok.Add(sv);
+        //    }
+        //    sr.Close();
+
+
+        //}
+
         //private static void Kiiratas()
         //{
         //    var sorbarendezes = rovidprogram
@@ -132,13 +147,13 @@ namespace _2025_01_16_Mukorcsolya
         //            nev = x.nev,
         //            orszag = x.orszag,
         //            pontsz = OsszpontSzam(x.nev)
-                    
+
 
 
         //        })
         //        .OrderBy(x => x.pontsz);
 
-            
+
 
 
 

@@ -29,7 +29,7 @@ namespace _2025_01_17_Nobel
             StreamWriter w = new StreamWriter("orvosi.txt");
             
                 var adatok2 = adatok
-                    .OrderBy(obj => obj.ev)
+                    //.OrderBy(obj => obj.ev)
                     .Select(obj => new
                     {
                         evek=obj.ev,
@@ -38,7 +38,7 @@ namespace _2025_01_17_Nobel
                     }); 
                 foreach(var adat in adatok2)
                 {
-                    Console.WriteLine("{0}: {1} {2}", adat.evek, adat.knevek, adat.vnevek);
+                    w.WriteLine("{0}: {1} {2}", adat.evek, adat.knevek, adat.vnevek);
                 }
             w.Close();
 
