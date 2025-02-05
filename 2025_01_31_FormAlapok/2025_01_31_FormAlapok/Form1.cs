@@ -62,8 +62,8 @@ namespace _2025_01_31_FormAlapok
             }
             if ((string)comboBox1.Items[5] == "hatvány")
             {
-                double maradek = Math.Pow(Convert.ToDouble(szam1NUD.Value), Convert.ToDouble(szam2NUD.Value));
-                EredmenyLabel.Text = "" + maradek;
+                double hatvany = Math.Pow(Convert.ToDouble(szam1NUD.Value), Convert.ToDouble(szam2NUD.Value));
+                EredmenyLabel.Text = "" + hatvany;
             }
 
 
