@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2025_02_14_ConsolefelhasznalasaFormba", "2025_02_14_ConsolefelhasznalasaFormba\2025_02_14_ConsolefelhasznalasaFormba.csproj", "{F4F10718-ED66-4B57-928F-1F00E3CD335D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2024_02_06_FutoversenyProjekt", "..\projekt futóverseny\2024_02_06_FutoversenyProjekt\2024_02_06_FutoversenyProjekt\2024_02_06_FutoversenyProjekt.csproj", "{83B4731D-94F7-4792-A7AA-A557DE15264D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F10718-ED66-4B57-928F-1F00E3CD335D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F10718-ED66-4B57-928F-1F00E3CD335D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F10718-ED66-4B57-928F-1F00E3CD335D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F10718-ED66-4B57-928F-1F00E3CD335D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B4731D-94F7-4792-A7AA-A557DE15264D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B4731D-94F7-4792-A7AA-A557DE15264D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B4731D-94F7-4792-A7AA-A557DE15264D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B4731D-94F7-4792-A7AA-A557DE15264D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0950E4D-E2A0-4E38-9A3D-62E3B1AC3D35}
+	EndGlobalSection
+EndGlobal
