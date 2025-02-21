@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2024_02_06_FutoversenyProjekt
 {
-    public class Futas
+    internal class Futas
     {
         public string versenyzoId;
         /// <summary>

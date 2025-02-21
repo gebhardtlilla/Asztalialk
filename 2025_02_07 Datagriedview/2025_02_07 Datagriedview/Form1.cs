@@ -21,6 +21,7 @@ namespace _2025_02_07_Datagriedview
         }
 
         private int aktsor = 0;
+
         private void TablaAdatok()
         {
             tablaDGV.Rows[0].Cells[0].Value = "0,0";
@@ -66,8 +67,39 @@ namespace _2025_02_07_Datagriedview
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Fajlbeolvasas("eredmenyek.csv");
 
-            Fajlbeolvasas("eredmenyek.csv");
+            FajlbeolvasasEgyben();
+        }
+
+        private void FajlbeolvasasEgyben()
+        {
+            try
+            {
+                if (openFileDialog1.ShowDialog() == DialogResult.OK)
+                {
+                    Fajlbeolvasas(openFileDialog1.FileName);
+                }
+            }
+            catch (ArgumentOutOfRangeException ex)
+            {
+                tablaDGV.RowCount = 1;
+                tablaDGV.ColumnCount = 1;
+                MessageBox.Show(/*ex.Message*/"Ezt a fájlt a program nem tudja beolvasni!");
+                //this.Close();
+            }
+            catch
+            {
+                tablaDGV.RowCount = 1;
+                tablaDGV.ColumnCount = 1;
+                MessageBox.Show("Hiba történt a fájlbeolvasás során!");
+                //this.Close();
+            }
+            finally
+            {
+                MessageBox.Show("Ez mindenképpen lefut!");
+            }
+
         }
 
         private void Fajlbeolvasas(string path)
@@ -103,26 +135,104 @@ namespace _2025_02_07_Datagriedview
         private void Form1_Load(object sender, EventArgs e)
         {
             tablaDGV.AutoResizeRowHeadersWidth(DataGridViewRowHeadersWidthSizeMode.AutoSizeToAllHeaders);
+            //Ne lehessen rákattintani
+            button2.Enabled = false;
         }
 
         private void tablaDGV_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             int sor = tablaDGV.CurrentCell.RowIndex;
             int oszlop = tablaDGV.CurrentCell.ColumnIndex;
-            Sorszinezes(sor, Color.Red);
-            Sorszinezes(aktsor, Color.White);
-            aktsor = sor;
-            tablaDGV.ClearSelection();
+            Sorszinezes(sor);
             //MessageBox.Show($"{sor} {oszlop}");
+            AdatokKiszedese(sor);
+            //Mivel már van kijelölt adat ezért rá lehessen kattintani
+            button2.Enabled = true; 
         }
 
-        private void Sorszinezes(int sor, Color szin)
+        private void AdatokKiszedese(int sor)
+        {
+            listBox1.Items.Clear();
+            for (int i = 0; i < tablaDGV.ColumnCount; i++)
+            {
+                listBox1.Items.Add(tablaDGV.Rows[sor].Cells[i].Value);
+            }
+        }
+
+        private void Sorszinezes(int sor)
+        {
+            SorSzinezes(sor, Color.Red);
+            SorSzinezes(aktsor, Color.White);
+            aktsor = sor;
+            tablaDGV.ClearSelection();
+        }
+
+        private void SorSzinezes(int sor, Color szin)
         {
             for (int i = 0; i < tablaDGV.ColumnCount; i++)
             {
-
                 tablaDGV.Rows[sor].Cells[i].Style.BackColor = szin;
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MentesEgyben();
+        }
+
+        private void MentesEgyben()
+        {
+            if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                StreamWriter sw = new StreamWriter(saveFileDialog1.FileName);
+
+                for (int i = 0; i < listBox1.Items.Count; i++)
+                {
+                    sw.WriteLine(listBox1.Items[i]);
+                }
+
+                sw.Close();
+            }
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void loadFileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FajlbeolvasasEgyben();
+        }
+
+        private void saveFileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MentesEgyben();
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if(listBox1.SelectedItem!=null)
+            {
+                string sor = listBox1.SelectedItem.ToString();
+                textBox1.Text = sor;
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+            if(listBox1.SelectedIndex>-1)
+            {
+                int index = listbox1.sele
+            }
+            //listBox1.Items.Clear();
+            //for (int i = 0; i < tablaDGV.ColumnCount; i++)
+            //{
+            //    //listBox1.Items.Add(textBox1.Text);
+            //    listBox1.SelectedItem(textBox1.Text);
+            //}
+
         }
     }
 }

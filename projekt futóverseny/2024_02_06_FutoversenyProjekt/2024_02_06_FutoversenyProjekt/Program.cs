@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _2024_02_06_FutoversenyProjekt
 {
-    public class Program
+    internal class Program
     {
         static void Main(string[] args)
         {

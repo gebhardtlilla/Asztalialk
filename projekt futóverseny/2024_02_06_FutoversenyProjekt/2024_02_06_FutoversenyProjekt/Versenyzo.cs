@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2024_02_06_FutoversenyProjekt
 {
-    public class Versenyzo : IVersenyzo
+    internal class Versenyzo : IVersenyzo
     {
         public string ID { get ; set ; }
         public string Nev { get ; set ; }

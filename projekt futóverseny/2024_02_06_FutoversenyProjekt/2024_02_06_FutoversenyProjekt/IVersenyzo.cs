@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2024_02_06_FutoversenyProjekt
 {
-    public interface IVersenyzo
+    internal interface IVersenyzo
     {
         string ID { get; set;}
         string Nev {  get; set;}

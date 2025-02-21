@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2024_02_06_FutoversenyProjekt
 {
-    public static class Futtathato
+    internal static class Futtathato
     {
-        public static List<Versenyzo> versenyzok = new List<Versenyzo>();
+        static List<Versenyzo> versenyzok = new List<Versenyzo>();
 
         public static void VersenyzoFelvetele(string sor, char c)
         {
@@ -16,21 +16,11 @@ namespace _2024_02_06_FutoversenyProjekt
             Versenyzo v = new Versenyzo(st[0], st[1], st[2] == "ferfi");
             versenyzok.Add(v);
         }
-        public static void VersenyzoFelvetele(Versenyzo v)
-        {
-            
-            versenyzok.Add(v);
-        }
 
         public static int HanyVersenyenVolt(Versenyzo v)
         {
             return v.HanyVersenyenvolt();
         }
-        /// <summary>
-        /// A paraméterben megadott Versenyzo típusa versenyző legjobb eredményt adja
-        /// </summary>
-        /// <param name="v"></param>
-        /// <returns></returns>
 
         public static string LegjobbEredmenye(Versenyzo v)
         {
