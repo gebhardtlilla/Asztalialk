@@ -68,7 +68,6 @@ namespace _2025_02_07_Datagriedview
         private void button1_Click(object sender, EventArgs e)
         {
             //Fajlbeolvasas("eredmenyek.csv");
-
             FajlbeolvasasEgyben();
         }
 
@@ -97,9 +96,8 @@ namespace _2025_02_07_Datagriedview
             }
             finally
             {
-                MessageBox.Show("Ez mindenképpen lefut!");
+                //MessageBox.Show("Ez mindenképpen lefut!");
             }
-
         }
 
         private void Fajlbeolvasas(string path)
@@ -135,8 +133,8 @@ namespace _2025_02_07_Datagriedview
         private void Form1_Load(object sender, EventArgs e)
         {
             tablaDGV.AutoResizeRowHeadersWidth(DataGridViewRowHeadersWidthSizeMode.AutoSizeToAllHeaders);
-            //Ne lehessen rákattintani
             button2.Enabled = false;
+
         }
 
         private void tablaDGV_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -146,8 +144,7 @@ namespace _2025_02_07_Datagriedview
             Sorszinezes(sor);
             //MessageBox.Show($"{sor} {oszlop}");
             AdatokKiszedese(sor);
-            //Mivel már van kijelölt adat ezért rá lehessen kattintani
-            button2.Enabled = true; 
+            button2.Enabled = listBox1.Items.Count > 0;
         }
 
         private void AdatokKiszedese(int sor)
@@ -212,27 +209,21 @@ namespace _2025_02_07_Datagriedview
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if(listBox1.SelectedItem!=null)
+            if (listBox1.SelectedItem != null)
             {
                 string sor = listBox1.SelectedItem.ToString();
                 textBox1.Text = sor;
             }
+
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-
-            if(listBox1.SelectedIndex>-1)
+            if (listBox1.SelectedIndex > -1)
             {
-                int index = listbox1.sele
+                int index = listBox1.SelectedIndex;
+                listBox1.Items[index] = textBox1.Text;
             }
-            //listBox1.Items.Clear();
-            //for (int i = 0; i < tablaDGV.ColumnCount; i++)
-            //{
-            //    //listBox1.Items.Add(textBox1.Text);
-            //    listBox1.SelectedItem(textBox1.Text);
-            //}
-
         }
     }
 }
